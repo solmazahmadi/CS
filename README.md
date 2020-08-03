@@ -1,1 +1,1 @@
-# CS
+# Computational Statistics Project
